@@ -1,5 +1,6 @@
 # Elk-Stalk-Deployment-Project
 In the first project week, you will configure an ELK stack server in order to set up a cloud monitoring system. This project will result in tangible deliverables that demonstrate your knowledge of cloud, network security, logging and monitoring.
+
 Stefany Paz -- ELK Stack Project
 June 16, 2021 -- GWU Cybersecurity - Boot Camp
 Automated ELK Stack Deployment
